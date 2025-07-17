@@ -59,9 +59,6 @@ A multi-client encrypted chat server built using C++ raw sockets (WinAPI) for Wi
 - Windows (Tested on Windows 10/11)
 - MinGW or Visual Studio for compilation
 
-⚠️ Note: Precompiled binaries are not included. Compile locally.
-
-
 ### 🏗️ Compilation:
 ```bash
 # Compile Server
