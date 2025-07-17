@@ -66,3 +66,8 @@ g++ server.cpp -o server.exe -lws2_32
 
 # Compile Client
 g++ client.cpp -o client.exe -lws2_32
+
+## 🚀 Building Instructions
+
+1. Install MinGW on Windows.
+2. Navigate to project folder:
