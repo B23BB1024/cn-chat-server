@@ -63,6 +63,12 @@ A multi-client encrypted chat server built using C++ raw sockets (WinAPI) for Wi
 
 1. Install MinGW on Windows.
 2. Navigate to project folder:
+   g++ server.cpp -o server.exe -lws2_32
+   g++ client.cpp -o client.exe -lws2_32
+3. Run `server.exe` and `client.exe`.
+
+⚠️ Note: Precompiled binaries are not included. Compile locally.
+
 
 ### 🏗️ Compilation:
 ```bash
