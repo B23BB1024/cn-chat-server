@@ -1,0 +1,22 @@
+# Ignore compiled binaries
+*.exe
+
+# Ignore logs and runtime files
+chatlog.txt
+user_activity.log
+banned.txt
+muted.txt
+groups.txt
+admins.txt
+motd.txt
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Optional: ignore any backup files
+*.bak
+*.tmp
+
+# Optional: exclude system files
+Thumbs.db
+Desktop.ini
